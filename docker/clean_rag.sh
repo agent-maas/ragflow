@@ -1,0 +1,2 @@
+docker compose down
+docker volume rm docker_esdata01 docker_minio_data docker_mysql_data docker_redis_data
